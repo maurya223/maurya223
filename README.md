@@ -15,10 +15,23 @@ I also have experience building LLM-based chatbots and backend APIs, focusing on
 
 ## 🛠 Skills
 
-**Languages:** Python, JavaScript, SQL , C++
-**Frameworks:** Flask, Django (Learning)  
-**Tools:** Git, MySQL, OpenCV  
-**Technologies:** REST APIs, AI/ML, Web Development 
+## 🛠 Skills
+
+**Languages:** Python, JavaScript, SQL, C++  
+
+**Frameworks & Libraries:** Django, Flask, OpenCV, NumPy, Pandas  
+
+**Backend & APIs:** REST APIs, API Integration, Backend Development, Authentication (JWT/Session)  
+
+**Databases:** MySQL, SQLite  
+
+**Tools & Technologies:** Git, GitHub, Postman, VS Code  
+
+**Core Concepts:** Data Structures & Algorithms, OOP, DBMS, Operating Systems (Basics)  
+
+**AI/ML:** Machine Learning Basics, Face Recognition Systems, Image Processing  
+
+**Web Development:** HTML, CSS, JavaScript, Responsive Design  
 
 ---
 
